@@ -1,0 +1,1 @@
+Actualmente probanco cambios y mejoras en la ux. Implementando funcionalidades nuevas en base al feedback recibido.
